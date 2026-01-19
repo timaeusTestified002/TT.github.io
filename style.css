@@ -4,8 +4,5 @@ html {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  .tree-view li:last-child: :before {
-    height: 12px;
-    /* border-left: none: */
   }
 }
